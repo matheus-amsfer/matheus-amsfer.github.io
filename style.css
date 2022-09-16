@@ -1,0 +1,28 @@
+
+
+body{
+    background-color: #1E1E24;
+    color: #FFF8F0;
+    font-family: 'Space Mono', monospace;
+}
+h1{
+    color: #FFCF99;
+    
+}
+.paragraph-style {
+    font-family: 'Azeret Mono', monospace;
+}
+
+.photo-style {
+    border-radius: 50%;
+}
+.un-list-style-high {
+    color: #058ED9;
+}
+.un-list-style {
+    color: #A39A92;
+}
+
+a {
+    text-decoration: none;
+}
